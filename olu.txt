@@ -1,3 +1,7 @@
 He has been active
+<<<<<<< HEAD
 Maybe not everyone
 We will soon find out
+=======
+We are all active
+>>>>>>> fixit
